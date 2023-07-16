@@ -1,0 +1,39 @@
+AP1: 00-E0-FC-D8-26-60
+AP2: 00-E0-FC-24-20-B0
+AP3: 00-E0-FC-49-0D-90
+AP4: 00-E0-FC-E6-30-20
+
+
+[AC-wlan-view]security	
+[AC-wlan-view]security-profile name FET-BUILDING
+[AC-wlan-sec-prof-FET-BUILDING]security	
+[AC-wlan-sec-prof-FET-BUILDING]security wpa	
+[AC-wlan-sec-prof-FET-BUILDING]security wpa-	
+[AC-wlan-sec-prof-FET-BUILDING]se	
+[AC-wlan-sec-prof-FET-BUILDING]security wpa	
+[AC-wlan-sec-prof-FET-BUILDING]security wpa-	
+[AC-wlan-sec-prof-FET-BUILDING]security wpa-wpa2 psk	
+[AC-wlan-sec-prof-FET-BUILDING]security wpa-wpa2 psk pass	
+[AC-wlan-sec-prof-FET-BUILDING]security wpa-wpa2 psk pass-phrase fet-2020	
+[AC-wlan-sec-prof-FET-BUILDING]security wpa-wpa2 psk pass-phrase fet-2020 aes
+[AC-wlan-sec-prof-FET-BUILDING]
+
+
+
+
+Error: Wrong parameter found at '^' position.
+[AC-wlan-sec-prof-FET-BUILDING]se	
+[AC-wlan-sec-prof-FET-BUILDING]security wpa	
+[AC-wlan-sec-prof-FET-BUILDING]security wpa-	
+[AC-wlan-sec-prof-FET-BUILDING]security wpa-wpa2 psk	
+[AC-wlan-sec-prof-FET-BUILDING]security wpa-wpa2 psk pass	
+[AC-wlan-sec-prof-FET-BUILDING]security wpa-wpa2 psk pass-phrase fet-2020	
+[AC-wlan-sec-prof-FET-BUILDING]security wpa-wpa2 psk pass-phrase fet-2020 aes
+[AC-wlan-sec-prof-FET-BUILDING]q
+[AC-wlan-view]ssid	
+[AC-wlan-view]ssid-profile n	
+[AC-wlan-view]ssid-profile name FET-BUILDING
+[AC-wlan-ssid-prof-FET-BUILDING]ssid	
+[AC-wlan-ssid-prof-FET-BUILDING]ssid FET-BUILDING
+Info: This operation may take a few seconds, please wait.done.
+[AC-wlan-ssid-prof-FET-BUILD
